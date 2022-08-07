@@ -1,6 +1,6 @@
 ﻿# Express-Demo
 
-This is the **demo** source code of the Taboan Express Project created by **Reylar Rebuta**.
+This is the **demo** source code of the Taboan Express Project.
 
 **Users:**
 - Admin
